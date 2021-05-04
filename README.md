@@ -23,4 +23,7 @@ This script was developed for the analysis of Portuguese. I hope it helps collea
 [Rodrigo Esteves de Lima Lopes](mailto:rll307@gmail.com)
 
 # Acknowledgments 
-I would like to express my gratitude to CNPq (Brazilian National Council for Scientific and Technological Development) for financing this research.
+I would like to express my gratitude to CNPq (Brazilian National Council for Scientific and Technological Development) for financing this research and [Agnes Sofia Guimarães Cruz](https://github.com/Agnessofia) for her input on earlier versions of this project. 
+
+## Inspirarion
+The methodology for this paper was inspared in an analysis by Silas Gonzada at his blog [Paixão por Dados](http://sillasgonzaga.com/post/topic-modeling-nathalia-arcuri/)
