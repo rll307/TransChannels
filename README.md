@@ -1,6 +1,6 @@
 # TransChannels
 ## About
-[Rodrigo Esteves de Lima-Lopes](mailto:rll307@unicamp.br) (State University of Campinas)
+[Rodrigo Esteves de Lima-Lopes](mailto:rll307@unicamp.br) (University of Campinas)
 
 This git brings the scripts for my article:
 
