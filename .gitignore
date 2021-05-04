@@ -17,9 +17,11 @@
 # Output files from R CMD check
 /*.Rcheck/
 
-# RStudio files
+# RStudio or Pycharm files
 .Rproj.user/
 /*.Rproj
+.idea/
+.idea/*.*
 
 # produced vignettes
 vignettes/*.html
