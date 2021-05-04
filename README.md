@@ -23,9 +23,9 @@ This script was developed for the analysis of Portuguese. I hope it helps collea
 
 # Before you start
 This script works with some other tools like Python and YouT ube-dl, please install the following tools:
-- (Python)[https://www.python.org/] (latest version) 
-- (YouTube-dl)[https://youtube-dl.org/]: tool for downaloading the subtitles
-- (Webvtt-py)[https://pypi.org/project/webvtt-py/] tool for cleaning the subtitles
+- [Python](https://www.python.org/) (latest version) 
+- [YouTube-dl](https://youtube-dl.org/]: tool for downaloading the subtitles)
+- [Webvtt-py](https://pypi.org/project/webvtt-py/): tool for cleaning the subtitles
 
 # Acknowledgments 
 I would like to express my gratitude to CNPq (Brazilian National Council for Scientific and Technological Development) for financing this research and [Agnes Sofia Guimarães Cruz](https://github.com/Agnessofia) for her input on earlier versions of this project. 
