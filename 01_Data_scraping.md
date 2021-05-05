@@ -57,7 +57,7 @@ basic.fields <- c("id", "title", "alt_title", "creator", "release_date",
 Now we are going to format the fields, using &&& as separators
 
 ``` r
-fields <- fields_raw %>% 
+fields <- basic.fields %>% 
   map_chr(~paste0("%(", ., ")s")) %>% 
   # use &&& as fiels separator
   paste0(collapse = "&&&") %>% 
