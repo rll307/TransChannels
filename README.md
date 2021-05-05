@@ -12,8 +12,8 @@ Soon as the paper is published, I will post the journals complete reference.
 
 Each script brings a different research step:
 
-1. Data scraping
-1. Data cleaning and preparation
+1. [Data scraping](01_Data_scraping.md)
+1. [Data cleaning](02_Data_cleaning.md)
 1. Processing Topic Modeling and plotting
 1. Concordancing
 
