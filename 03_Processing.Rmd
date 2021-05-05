@@ -1,5 +1,5 @@
 ---
-title: "Processing Topic Modelling YouTube Channels"
+title: "Processing Topic Model for YouTube Channels"
 author: "| Rodrigo Esteves de Lima-Lopes \n| University of Campinas \n| rll307@unicamp.br\n"
 output: 
   md_document:
