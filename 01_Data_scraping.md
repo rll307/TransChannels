@@ -92,3 +92,6 @@ Finally we run the dollowing command and wait.
 ``` r
 system(download.captions)
 ```
+
+Please, note that it will be necessary to repeat this code for each
+channel.
