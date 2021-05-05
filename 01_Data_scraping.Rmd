@@ -2,13 +2,13 @@
 title: "Data scraping from YouTube Channels"
 author: "| Rodrigo Esteves de Lima-Lopes \n| University of Campinas \n| rll307@unicamp.br\n"
 output: 
-  md_document:
-    variant: markdown_github
-  html_document:
-    toc: yes
   pdf_document:
     toc: yes
     number_sections: yes
+  html_document:
+    toc: yes
+  md_document:
+    variant: markdown_github
 ---
   ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
