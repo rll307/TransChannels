@@ -30,5 +30,5 @@ This script works with some other tools like Python and YouT ube-dl, please inst
 # Acknowledgments 
 I would like to express my gratitude to CNPq (Brazilian National Council for Scientific and Technological Development) for financing this research and [Agnes Sofia Guimarães Cruz](https://github.com/Agnessofia) for her input on earlier versions of this project. 
 
-## Inspirarion
+# Inspirarion
 The methodology for this paper was inspared in an analysis by Silas Gonzaga at his blog [Paixão por Dados](http://sillasgonzaga.com/post/topic-modeling-nathalia-arcuri/). Most of my code was a pure readaptation of Mr. Gonzaga work, who should receive all the credits. 
