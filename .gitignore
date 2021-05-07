@@ -19,7 +19,6 @@
 
 # RStudio or Pycharm files
 .Rproj.user/
-/*.Rproj
 .idea/
 .idea/*.*
 
