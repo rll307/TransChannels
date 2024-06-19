@@ -11,9 +11,7 @@ you have any doubts or need any help.
 
 This git brings the scripts for my article:
 
--   Lima-Lopes R.E. (forthcoming). Beyond the Binary: Trans Women’s
-    Video Activism on YouTube. Accepted for publication at *Digital
-    Scholarship in the Humanities*.
+-   Rodrigo Esteves de Lima Lopes, Beyond the binary: Trans women’s video activism on YouTube, Digital Scholarship in the Humanities, Volume 37, Issue 1, April 2022, Pages 67–80, [https://doi.org/10.1093/llc/fqab057](https://doi.org/10.1093/llc/fqab057)
 
 This script is specifically about **data processing**.
 
