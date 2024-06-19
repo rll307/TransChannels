@@ -4,7 +4,7 @@
 
 This git brings the scripts for my article:
 
-Rodrigo Esteves de Lima Lopes, Beyond the binary: Trans women’s video activism on YouTube, Digital Scholarship in the Humanities, Volume 37, Issue 1, April 2022, Pages 67–80, [https://doi.org/10.1093/llc/fqab057](https://doi.org/10.1093/llc/fqab057)
+- Rodrigo Esteves de Lima Lopes, Beyond the binary: Trans women’s video activism on YouTube, Digital Scholarship in the Humanities, Volume 37, Issue 1, April 2022, Pages 67–80, [https://doi.org/10.1093/llc/fqab057](https://doi.org/10.1093/llc/fqab057)
 
 ## Context
 
